@@ -19,3 +19,8 @@ Some case studies projects completed at Galvanize 13 weeks full-time Data Scienc
 - KMeans Clustering
 - Decision Tree
 
+---
+## Simulations
+- Dice Simulation  https://github.com/krishnatray/data-science-portfolio/blob/master/60_Simulation/dice_game_simulation.ipynb
+
+
