@@ -15,7 +15,7 @@ def dice_game(num_trials=100):
     print("Total Number of simulations: ", num_trials )
     print("Simulating two fair dice game...")
     print(f"Rules: Win=sum equal 7 loss_amount: {loss_amount} win_amount:{win_amount}")
-    print("Expected value ", ((1/6) * win_amount - (5/6) * loss_amount) )
+    print("Expected value ", ((6/36) * win_amount - (30/36) * loss_amount) )
    
     for i in range(num_trials):
         #print("\b",i,)
