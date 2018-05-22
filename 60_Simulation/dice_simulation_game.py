@@ -1,3 +1,10 @@
+#################################
+# Program:    dice_simulation_game.py
+# Author:     Sushil Sharma
+# description: simulate a game of rolling two dice
+#
+# 
+
 import sys
 import random
 def dice_game(num_trials=100):
@@ -5,7 +12,7 @@ def dice_game(num_trials=100):
     tot_loss = 0
     win_amount  = 25
     loss_amount = 5
-    print("Total Number of simulations: ", trials )
+    print("Total Number of simulations: ", num_trials )
     print("Simulating two fair dice game...")
     print(f"Rules: Win=sum equal 7 loss_amount: {loss_amount} win_amount:{win_amount}")
     print("Expected value ", ((1/6) * win_amount - (5/6) * loss_amount) )
@@ -28,3 +35,6 @@ def dice_game(num_trials=100):
 if __name__ == "__main__":
     trials = 100000
     dice_game(trials)
+#
+# End: dice_simulation_game.py
+#################################
