@@ -2,7 +2,7 @@
 
 This repository containts portfolio of data science projects completed by me for academic (viz. Galvanize, GeorgiaTech, UC Davis, Coursera, Udacity, EdX), self learning, and hobby purposes. Projects are presented in the form of iPython Notebooks, python source code, markdown files.
 ---
-## Case Studies / Projects 
+## Galvanize immersive: Case Studies / Projects 
 Some case studies projects completed at Galvanize 13 weeks full-time Data Science Immersive Program:
 
 - Sale price prediction of heavy equipment at auction based on its usage, equipment type, and configuration 
@@ -11,6 +11,12 @@ Some case studies projects completed at Galvanize 13 weeks full-time Data Scienc
 - Recommendation System using ALS Matrix Factorization in Spark on multi-node EC2 cluster on AWS
 - Fraud Detection System 
 - Centrality & Communities in a social media dataset using python networkx graph library
+
+---
+## Galvanize Immersive: Capstone Project 
+Project: DocReach - Predicting physician specialty from text data
+Overview: A large social media marketing firm wants to target doctors / physicians based on their practice area. For example, A marketing campaign to target Cardiologists for heart related news feed.
+git: https://github.com/krishnatray/galvanize-dsi-capstone
 
 ---
 ## Algorithms coded from scratch in python:
@@ -23,4 +29,6 @@ Some case studies projects completed at Galvanize 13 weeks full-time Data Scienc
 ## Simulations
 - Dice Simulation  https://github.com/krishnatray/data-science-portfolio/blob/master/60_Simulation/dice_game_simulation.ipynb
 
+---
+## Web Applications
 
