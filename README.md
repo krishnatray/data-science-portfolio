@@ -35,4 +35,5 @@ git: https://github.com/krishnatray/galvanize-dsi-capstone
 ---
 ## Other 
 - Boston Housing Prices Simple Linear Regression https://github.com/krishnatray/data-science-portfolio/blob/master/02_1_Boston_Housing_Prices_Linear_Regression.ipynb
-- Social Network Logistic Regression 
+- Social Network Logistic Regression https://github.com/krishnatray/data-science-portfolio/blob/master/02_2_SocialNetwork_LogisticRegression.ipynb
+
