@@ -39,6 +39,6 @@ git: https://github.com/krishnatray/galvanize-dsi-capstone
 
 ---
 # Computer Science Problems
-- Simple: Fibonacci, Calculate Pi, Tawer of Hanoi
+- Simple: Fibonacci, Calculate Pi, Tower of Hanoi
 - Intermediate: 
 - Advance
